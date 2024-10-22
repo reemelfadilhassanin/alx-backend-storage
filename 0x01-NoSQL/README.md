@@ -29,7 +29,7 @@ By the end of this project, you should be able to explain:
 
 ### Python Scripts
 
-- All files must be inter	preted/compiled on Ubuntu 18.04 LTS using Python 3 (version 3.7) and PyMongo (version 3.10).
+- All files must be interpreted/compiled on Ubuntu 18.04 LTS using Python 3 (version 3.7) and PyMongo (version 3.10).
 - Each file should end with a new line.
 - The first line should be: `#!/usr/bin/env python3`.
 - Code must follow the `pycodestyle` style (version 2.5.*).
